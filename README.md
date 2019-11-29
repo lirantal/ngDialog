@@ -6,6 +6,7 @@
 [![github tag](https://img.shields.io/github/tag/likeastore/ngDialog.svg)](https://github.com/likeastore/ngDialog/tags)
 [![Download Count](https://img.shields.io/npm/dm/ng-dialog.svg)](http://www.npmjs.com/package/ng-dialog)
 [![Code Climate](https://codeclimate.com/github/likeastore/ngDialog/badges/gpa.svg)](https://codeclimate.com/github/likeastore/ngDialog)
+[![Known Vulnerabilities](https://snyk.io/test/npm/ng-dialog/badge.svg)](https://snyk.io/test/npm/ng-dialog)
 
 > Modal dialogs and popups provider for [AngularJS](http://angularjs.org/) applications.
 
